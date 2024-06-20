@@ -33,4 +33,7 @@ To get started with these projects, clone the repository and explore the individ
 
 ```bash
 git clone https://github.com/prasad-chavan1/Machine_Learning
+```
+```bash
 cd Machine-Learning
+```
